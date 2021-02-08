@@ -1,5 +1,7 @@
 package day05oop.继承;
 
+import org.junit.Test;
+
 public class Demo01 {
 	
 	public static void main(String[] args) {
