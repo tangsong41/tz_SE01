@@ -1,4 +1,4 @@
-package day04array;
+package day03.lesson03for;
 
 public class ForEach {
 	public static void main(String[] args) {
