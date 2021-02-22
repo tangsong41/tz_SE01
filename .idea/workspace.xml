@@ -2,55 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f66ff9-7550-479e-b450-9046d0135223" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_String/TestString03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_String/TestString04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day02var/Snippet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day02var/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day02var/TestOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day03/ControlTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day03/lesson01/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day03/lesson03for/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day03/lesson03for/ForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day04array/Array2Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day04array/Array2Demo02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day04array/ArrayTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day04array/ForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day04array/JavaArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day04array/SortDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Demo01PrintArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Demo02Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/Demo01PrintArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/Demo02Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/FacMethod01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo01PhoneOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo02PhoneTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo03PhoneSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo04PhoneParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo05PhoneReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo01VariableDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo02Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo03Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo04Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Demo01Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Demo02Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo05/Demo01Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo05/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day14List/Demo01arrrarlist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day14List/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day16File/FileTxt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day16File/MkFile01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day17IO/FileOutPutStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05oop/继承/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05oop/继承/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05oop/继承/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05oop/继承/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testng_stu/GetProper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testng_stu/GetProper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day07oop/extendss/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07oop/extendss/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,83 +23,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo02Student.java">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="286">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day03/TestScanner.java">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testng_stu/GetProper.java">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="264">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo01.java">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day06oop/demo02/Demo02PhoneTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-242">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day06oop/demo05/Demo01Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day06oop/demo05/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="484">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -158,21 +82,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java" />
         <option value="$PROJECT_DIR$/src/day17IO/FileOutPutStream.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java" />
-        <option value="$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java" />
         <option value="$PROJECT_DIR$/src/testng_stu/GetProper.java" />
         <option value="$PROJECT_DIR$/src/day05oop/继承/Demo01.java" />
         <option value="$PROJECT_DIR$/src/day03/TestScanner.java" />
         <option value="$PROJECT_DIR$/src/day05oop/继承/Student.java" />
+        <option value="$PROJECT_DIR$/src/day07oop/extendss/Test01.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_String/TestString03.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_String/TestString04.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest01.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="846" />
+    <option name="x" value="896" />
+    <option name="y" value="28" />
     <option name="width" value="1119" />
-    <option name="height" value="1047" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -180,7 +115,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,13 +131,7 @@
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="继承" type="462c0819:PsiDirectoryNode" />
+              <item name="day06oop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
@@ -216,7 +144,7 @@
               <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day12common" type="462c0819:PsiDirectoryNode" />
-              <item name="stu_String" type="462c0819:PsiDirectoryNode" />
+              <item name="stu_StringBuilder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
@@ -226,6 +154,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +166,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/testing/andriod/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613999959482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614010145781" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -258,13 +187,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetProper">
+  <component name="RunManager" selected="Application.StringBuilderDemo02">
     <configuration name="GetProper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testng_stu.GetProper" />
       <module name="tz_SE01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testng_stu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12common.stu_StringBuilder.StringBuilderDemo02" />
+      <module name="tz_SE01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12common.stu_StringBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12common.stu_String.StringDemo02" />
+      <module name="tz_SE01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12common.stu_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,8 +240,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestString04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12common.stu_String.TestString04" />
+      <module name="tz_SE01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12common.stu_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderDemo02" />
+        <item itemvalue="Application.TestString04" />
+        <item itemvalue="Application.StringDemo02" />
         <item itemvalue="Application.GetProper" />
         <item itemvalue="Application.TestScanner" />
       </list>
@@ -307,28 +278,28 @@
       <workItem from="1613812595657" duration="124000" />
       <workItem from="1613889461310" duration="2709000" />
       <workItem from="1613933276014" duration="691000" />
-      <workItem from="1613992666047" duration="3550000" />
+      <workItem from="1613992666047" duration="3850000" />
+      <workItem from="1614000909620" duration="6490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9410000" />
+    <option name="totallyTimeSpent" value="16200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="846" y="0" width="1119" height="1000" extended-state="0" />
+    <frame x="896" y="28" width="1119" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24362606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24834749" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,8 +307,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34642032" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,13 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -403,9 +368,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day03/ControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo02Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day03/TestScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testng_stu/GetProper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day07oop/extendss/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day06oop/demo02/Demo02PhoneTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
+        <state relative-caret-position="22">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
@@ -437,56 +458,56 @@
     <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java">
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestString03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="286">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day03/ControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day03/TestScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo02Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testng_stu/GetProper.java">
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestString04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo01.java">
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="286">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
     </entry>

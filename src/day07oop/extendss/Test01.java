@@ -6,6 +6,13 @@ package day07oop.extendss;
  * @Description:
  */
 public class Test01 {
-    main
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+	}
 
 }
