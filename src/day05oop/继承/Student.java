@@ -1,4 +1,5 @@
 package day05oop.继承;
+
 /*
 定义一个类，用来模拟“学生”事物。其中就有两个组成部分：
 
@@ -42,5 +43,9 @@ public class Student {
     public void study() {
         System.out.println("学习！");
     }
+
+
+
+
 
 }

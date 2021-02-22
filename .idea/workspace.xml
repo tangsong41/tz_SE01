@@ -2,9 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f66ff9-7550-479e-b450-9046d0135223" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05oop/继承/Demo01PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04array/Demo01PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day02var/Snippet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day02var/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day02var/TestOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day03/ControlTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day03/lesson01/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day03/lesson03for/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day03/lesson03for/ForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day04array/Array2Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day04array/Array2Demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day04array/ArrayTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day04array/ForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day04array/JavaArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day04array/SortDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Demo01PrintArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Demo02Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day05oop/继承/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/Demo01PrintArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/Demo02Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/FacMethod01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo01/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo01PhoneOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo02PhoneTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo03PhoneSame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo04PhoneParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Demo05PhoneReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo02/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo01VariableDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo02Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo03Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Demo04Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo03/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Demo01Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Demo02Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo04/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo05/Demo01Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day06oop/demo05/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day14List/Demo01arrrarlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day14List/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day16File/FileTxt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day16File/MkFile01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day17IO/FileOutPutStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05oop/继承/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05oop/继承/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05oop/继承/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05oop/继承/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testng_stu/GetProper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testng_stu/GetProper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,49 +62,83 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-        <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java">
+        <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo02Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/day16File/FileTxt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day17IO/FileOutPutStream.java">
+        <entry file="file://$PROJECT_DIR$/src/day03/TestScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="154">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testng_stu/GetProper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
->>>>>>> Stashed changes
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
             <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-=======
-            <state relative-caret-position="230">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
->>>>>>> Stashed changes
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day06oop/demo02/Demo02PhoneTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day06oop/demo05/Demo01Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day06oop/demo05/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,20 +162,25 @@
         <option value="$PROJECT_DIR$/src/day17IO/FileOutPutStream.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_String/StringDemo02.java" />
+        <option value="$PROJECT_DIR$/src/testng_stu/GetProper.java" />
+        <option value="$PROJECT_DIR$/src/day05oop/继承/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/day03/TestScanner.java" />
+        <option value="$PROJECT_DIR$/src/day05oop/继承/Student.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="768" />
-    <option name="y" value="5" />
+    <option name="x" value="846" />
     <option name="width" value="1119" />
-    <option name="height" value="1000" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +192,18 @@
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="继承" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
@@ -129,23 +226,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/testing/andriod/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613935120738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613999959482" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,6 +257,40 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.GetProper">
+    <configuration name="GetProper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testng_stu.GetProper" />
+      <module name="tz_SE01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng_stu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.TestScanner" />
+      <module name="tz_SE01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetProper" />
+        <item itemvalue="Application.TestScanner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -174,29 +307,25 @@
       <workItem from="1613812595657" duration="124000" />
       <workItem from="1613889461310" duration="2709000" />
       <workItem from="1613933276014" duration="691000" />
+      <workItem from="1613992666047" duration="3550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5860000" />
+    <option name="totallyTimeSpent" value="9410000" />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< Updated upstream
-    <frame x="768" y="5" width="1119" height="1000" extended-state="0" />
+    <frame x="846" y="0" width="1119" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23890463" />
-=======
-    <frame x="433" y="14" width="1400" height="1000" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18955223" />
->>>>>>> Stashed changes
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24362606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -207,7 +336,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290993" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -225,13 +354,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day16File/MkFile01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -242,7 +364,7 @@
     <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -250,13 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo02Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -269,15 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day16File/FileTxt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="308">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06oop/demo02/Demo02PhoneTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -295,15 +403,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java">
+    <entry file="file://$PROJECT_DIR$/src/day06oop/demo02/Demo02PhoneTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="220">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-=======
-        <state relative-caret-position="161">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
->>>>>>> Stashed changes
+        <state relative-caret-position="-242">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06oop/demo05/Demo01Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06oop/demo05/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -311,6 +438,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_String/TestStringDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day03/ControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day03/TestScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo02Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testng_stu/GetProper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day05oop/继承/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
         </state>
       </provider>
     </entry>

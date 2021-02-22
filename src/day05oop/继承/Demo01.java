@@ -1,6 +1,6 @@
 package day05oop.继承;
 
-import org.junit.Test;
+
 
 public class Demo01 {
 	
