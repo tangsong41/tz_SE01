@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f66ff9-7550-479e-b450-9046d0135223" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="322">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -32,6 +31,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -63,9 +89,9 @@
         <option value="$PROJECT_DIR$/src/day12common/stu_String/TestString04.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo01.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo02.java" />
-        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest01.java" />
         <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java" />
       </list>
     </option>
   </component>
@@ -131,6 +157,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614010145781" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -150,13 +182,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderTest02">
-    <configuration name="GetProper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testng_stu.GetProper" />
+  <component name="RunManager" selected="Application.StringBuilderDemo03">
+    <configuration name="StringBuilderDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12common.stu_StringBuilder.StringBuilderDemo02" />
       <module name="tz_SE01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng_stu.*" />
+          <option name="PATTERN" value="day12common.stu_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12common.stu_StringBuilder.StringBuilderDemo02" />
+    <configuration name="StringBuilderDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12common.stu_StringBuilder.StringBuilderDemo03" />
       <module name="tz_SE01" />
       <extension name="coverage">
         <pattern>
@@ -218,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderDemo03" />
         <item itemvalue="Application.StringBuilderTest02" />
         <item itemvalue="Application.StringBuilderDemo02" />
         <item itemvalue="Application.TestString04" />
         <item itemvalue="Application.StringDemo02" />
-        <item itemvalue="Application.GetProper" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17294000" />
+    <option name="totallyTimeSpent" value="17850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="433" y="14" width="1400" height="1000" extended-state="0" />
@@ -270,7 +302,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34642032" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34642032" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -453,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -469,8 +494,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderTest02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="322">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/StringBuilderDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
