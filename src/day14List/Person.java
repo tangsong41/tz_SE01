@@ -5,8 +5,7 @@ public class Person {
 	private int badge;
 	
 	public Person() {
-		
-		
+
 	}
 
 	public Person(String name, int badge) {
