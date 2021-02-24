@@ -8,7 +8,9 @@ package day07oop.extendss;
 public class Test01 {
 	public static void main(String[] args) {
 		
-		
+		Zi zi = new Zi() ;
+
+		zi.show();
 		
 		
 		
