@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f66ff9-7550-479e-b450-9046d0135223" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day07oop/configs/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07oop/configs/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07oop/configs/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07oop/extendss/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07oop/extendss/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day07oop/extendss/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day07oop/extendss/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day14List/LIstDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day14List/LIstDemo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day14List/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day14List/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/day14List/TestList01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day14List/TestList01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07oop/extendss/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07oop/extendss/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_01/StringBuilderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_02/StringBuilderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_02/StringBuilderDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_03/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_03/StringBuilderTest02.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,39 +18,98 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day07oop/configs/Fu.java">
+        <entry file="file://$PROJECT_DIR$/src/day15set_map/stu_set/SetDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day07oop/configs/Zi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day07oop/configs/Test01.java">
+        <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_02/StringBuilderDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day15set_map/stu_map/TestMap02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day15set_map/stu_set/TestSet01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day15set_map/stu_set/TestSet02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day14List/TestList01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
+              <caret selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day14List/LIstDemo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day14List/LIstDemo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day14List/TestList02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day14List/LIstDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -102,6 +155,8 @@
         <option value="$PROJECT_DIR$/src/day07oop/configs/Fu.java" />
         <option value="$PROJECT_DIR$/src/day07oop/configs/Zi.java" />
         <option value="$PROJECT_DIR$/src/day07oop/configs/Test01.java" />
+        <option value="$PROJECT_DIR$/src/day12common/itheima_02/StringBuilderDemo01.java" />
+        <option value="$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_02/StringBuilderDemo01.java" />
       </list>
     </option>
   </component>
@@ -114,10 +169,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="739" />
-    <option name="y" value="15" />
-    <option name="width" value="1119" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="433" />
+    <option name="y" value="14" />
+    <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -128,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -146,32 +200,14 @@
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day07oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day07oop" type="462c0819:PsiDirectoryNode" />
-              <item name="configs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day12common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day14List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tz_SE01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day15set_map" type="462c0819:PsiDirectoryNode" />
+              <item name="day12common" type="462c0819:PsiDirectoryNode" />
+              <item name="stu_StringBuilder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tz_SE01" type="b2602c69:ProjectViewProjectNode" />
@@ -181,13 +217,27 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614181858895" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/day12common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\tz_SE01\src\day12common" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,18 +350,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10178000" />
+    <option name="totallyTimeSpent" value="11594000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="739" y="15" width="1119" height="1000" extended-state="0" />
+    <frame x="433" y="14" width="1400" height="1000" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25779036" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25746268" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
@@ -364,25 +415,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day14List/LIstDemo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="161">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day14List/LIstDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="28" />
-          <folding>
-            <element signature="e#238#246#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="506">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day14List/LIstDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="184">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -414,15 +462,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day14List/TestList02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="322">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day14List/TestList01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state>
+          <caret selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -473,6 +521,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day15set_map/stu_set/SetDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day15set_map/stu_map/TestMap01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12common/stu_StringBuilder/itheima_02/StringBuilderDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
